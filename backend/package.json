@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.3"
+  },
+  "scripts": {
+    "start:server": "json-server --watch db.json --port 3005"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  }
+}

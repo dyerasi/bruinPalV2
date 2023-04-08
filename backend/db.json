@@ -1,0 +1,10 @@
+{
+    "users": [
+        {"username": "user1", "id": 1}, 
+        {"username": "user2", "id": 2}, 
+        {"username": "user3", "id": 3}
+    ],
+    "tasks": [
+        {"id": 1, "description": "okay"}
+    ]
+}
